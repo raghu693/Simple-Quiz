@@ -88,7 +88,79 @@ const question = [
             { text: "358", correct: false },
             { text: "418", correct: false }
         ]
-    }
+    },
+    {
+        question: "which player plays from Agertina and also played for Barcelona(FCB)",
+        answer: [
+            { text: "Xavi", correct: false },
+            { text: "Messi", correct: true },
+            { text: "Ronaldo", correct: false },
+            { text: "Pele", correct: false }
+        ]
+    },
+    {
+        question: "How many Bones are there When a Baby is Borned?",
+        answer: [
+            { text: "206", correct: false },
+            { text: "300", correct: true },
+            { text: "358", correct: false },
+            { text: "418", correct: false }
+        ]
+    },
+    {
+        question: "How many Bones are there When a Baby is Borned?",
+        answer: [
+            { text: "206", correct: false },
+            { text: "300", correct: true },
+            { text: "358", correct: false },
+            { text: "418", correct: false }
+        ]
+    },
+    {
+        question: "How many Bones are there When a Baby is Borned?",
+        answer: [
+            { text: "206", correct: false },
+            { text: "300", correct: true },
+            { text: "358", correct: false },
+            { text: "418", correct: false }
+        ]
+    },
+    {
+        question: "How many Bones are there When a Baby is Borned?",
+        answer: [
+            { text: "206", correct: false },
+            { text: "300", correct: true },
+            { text: "358", correct: false },
+            { text: "418", correct: false }
+        ]
+    },
+    {
+        question: "How many Bones are there When a Baby is Borned?",
+        answer: [
+            { text: "206", correct: false },
+            { text: "300", correct: true },
+            { text: "358", correct: false },
+            { text: "418", correct: false }
+        ]
+    },
+    {
+        question: "How many Bones are there When a Baby is Borned?",
+        answer: [
+            { text: "206", correct: false },
+            { text: "300", correct: true },
+            { text: "358", correct: false },
+            { text: "418", correct: false }
+        ]
+    },
+    {
+        question: "How many Bones are there When a Baby is Borned?",
+        answer: [
+            { text: "206", correct: false },
+            { text: "300", correct: true },
+            { text: "358", correct: false },
+            { text: "418", correct: false }
+        ]
+    },
 ];
 let que = document.getElementById('question')
 let ansbtn = document.getElementById('answerbtns')
