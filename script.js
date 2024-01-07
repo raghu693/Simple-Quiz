@@ -90,7 +90,7 @@ const question = [
         ]
     },
     {
-        question: "which player plays from Agertina and also played for Barcelona(FCB)",
+        question: "which player plays from Argertina and also played for Barcelona(FCB)",
         answer: [
             { text: "Xavi", correct: false },
             { text: "Messi", correct: true },
@@ -99,66 +99,66 @@ const question = [
         ]
     },
     {
-        question: "How many Bones are there When a Baby is Borned?",
+        question: "What is 16-12-8+7",
         answer: [
-            { text: "206", correct: false },
-            { text: "300", correct: true },
-            { text: "358", correct: false },
-            { text: "418", correct: false }
+            { text: "0", correct: false },
+            { text: "-3", correct: false },
+            { text: "2", correct: false },
+            { text: "3", correct: true }
         ]
     },
     {
-        question: "How many Bones are there When a Baby is Borned?",
+        question: "Can we make a Website with Python?",
         answer: [
-            { text: "206", correct: false },
-            { text: "300", correct: true },
-            { text: "358", correct: false },
-            { text: "418", correct: false }
+            { text: "Yes", correct: false },
+            { text: "No", correct: false },
+            { text: "Only FrontEnd", correct: false },
+            { text: "Only BackEnd", correct: true }
         ]
     },
     {
-        question: "How many Bones are there When a Baby is Borned?",
+        question: "World's first Map was made by whom and when?",
         answer: [
-            { text: "206", correct: false },
-            { text: "300", correct: true },
-            { text: "358", correct: false },
-            { text: "418", correct: false }
+            { text: "Al-Idrisi in 1154", correct: false },
+            { text: "Anaximander in 6TH century BC", correct: true },
+            { text: "Ibn e balcuta in 1152", correct: false },
+            { text: "don't know", correct: false }
         ]
     },
     {
-        question: "How many Bones are there When a Baby is Borned?",
+        question: "How to make a cross using css with an escape sequence character?",
         answer: [
-            { text: "206", correct: false },
-            { text: "300", correct: true },
-            { text: "358", correct: false },
-            { text: "418", correct: false }
+            { text: "\\u01d7", correct: false },
+            { text: "\\u02d7", correct: false },
+            { text: "\\u04d7", correct: false },
+            { text: "\\u00d7", correct: true }
         ]
     },
     {
-        question: "How many Bones are there When a Baby is Borned?",
+        question: "How many ways are there to create a function in JavaScript?",
         answer: [
-            { text: "206", correct: false },
-            { text: "300", correct: true },
-            { text: "358", correct: false },
-            { text: "418", correct: false }
+            { text: "1", correct: false },
+            { text: "2", correct: true },
+            { text: "3", correct: false },
+            { text: "4", correct: false }
         ]
     },
     {
-        question: "How many Bones are there When a Baby is Borned?",
+        question: "CallBack hell in JavaScript is also known as:",
         answer: [
-            { text: "206", correct: false },
-            { text: "300", correct: true },
-            { text: "358", correct: false },
-            { text: "418", correct: false }
+            { text: "callback block", correct: false },
+            { text: "Pyramid of Doom", correct: true },
+            { text: "pyramid of callback", correct: false },
+            { text: "pyramid block", correct: false }
         ]
     },
     {
-        question: "How many Bones are there When a Baby is Borned?",
+        question: "What is the power of While loop in python and JavaScript?",
         answer: [
-            { text: "206", correct: false },
-            { text: "300", correct: true },
-            { text: "358", correct: false },
-            { text: "418", correct: false }
+            { text: "it is powerfull", correct: false },
+            { text: "nothing", correct: false },
+            { text: "it is powerfull to to crash a system", correct: false },
+            { text: "Infinite", correct: true }
         ]
     },
 ];
