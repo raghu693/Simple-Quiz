@@ -47,8 +47,8 @@ const question = [
     {
         question: "Which is the Smallest Continent on the earth?",
         answer: [
-            { text: "Europe", correct: true },
-            { text: "Australia", correct: false },
+            { text: "Europe", correct: false },
+            { text: "Australia", correct: true },
             { text: "Antartica", correct: false },
             { text: "South America", correct: false }
         ]
