@@ -161,6 +161,179 @@ const question = [
             { text: "Infinite", correct: true }
         ]
     },
+    
+    {
+        question: "How to write Hello world in C?",
+        answer: [
+            { text: "Printf", correct: false },
+            { text: "scanf", correct: false },
+            { text: "print", correct: false },
+            { text: "printf", correct: true }
+        ]
+    },
+    
+    {
+        question: "How many types of loops are there in JavaScript?",
+        answer: [
+            { text: "3", correct: false },
+            { text: "6", correct: true },
+            { text: "4", correct: false },
+            { text: "5", correct: false }
+        ]
+    },
+    
+    {
+        question: "Are callbacks recommened in JavaScript",
+        answer: [
+            { text: "yes", correct: false },
+            { text: "sometimes", correct: false },
+            { text: "no", correct: true },
+            { text: "probably", correct: false }
+        ]
+    },
+    
+    {
+        question: "What is the full form of IIFE?",
+        answer: [
+            { text: "Imidaitaly invoked function engine", correct: false },
+            { text: "invoking imidiataly fuction expression", correct: false },
+            { text: "includes invoking faunction engine", correct: false },
+            { text: "imidiataly invoked function expression", correct: true }
+        ]
+    },
+    
+    {
+        question: "In setTimeout we enter the time in ?",
+        answer: [
+            { text: "Milliseconds", correct: true },
+            { text: "minutes", correct: false },
+            { text: "seconds", correct: false },
+            { text: "nenoseconds", correct: false }
+        ]
+    },
+    
+    {
+        question: "Which are two predefined functions in JS engine?",
+        answer: [
+            { text: "extends, super", correct: false },
+            { text: "resolve, reject", correct: true },
+            { text: "constructor, forEach", correct: false },
+            { text: "test, async", correct: false }
+        ]
+    },
+    
+    {
+        question: "What will a printf(value) will return if stored in a variable?",
+        answer: [
+            { text: "string", correct: false },
+            { text: "that thing itself", correct: false },
+            { text: "undefined", correct: false },
+            { text: "length", correct: true }
+        ]
+    },
+    
+    {
+        question: "?",
+        answer: [
+            { text: "it is powerfull", correct: false },
+            { text: "nothing", correct: false },
+            { text: "it is powerfull to to crash a system", correct: false },
+            { text: "Infinite", correct: true }
+        ]
+    },
+    
+    {
+        question: "What is the power of While loop in python and JavaScript?",
+        answer: [
+            { text: "it is powerfull", correct: false },
+            { text: "nothing", correct: false },
+            { text: "it is powerfull to to crash a system", correct: false },
+            { text: "Infinite", correct: true }
+        ]
+    },
+    
+    {
+        question: "What is the power of While loop in python and JavaScript?",
+        answer: [
+            { text: "it is powerfull", correct: false },
+            { text: "nothing", correct: false },
+            { text: "it is powerfull to to crash a system", correct: false },
+            { text: "Infinite", correct: true }
+        ]
+    },
+    
+    {
+        question: "What is the power of While loop in python and JavaScript?",
+        answer: [
+            { text: "it is powerfull", correct: false },
+            { text: "nothing", correct: false },
+            { text: "it is powerfull to to crash a system", correct: false },
+            { text: "Infinite", correct: true }
+        ]
+    },
+    
+    {
+        question: "What is the power of While loop in python and JavaScript?",
+        answer: [
+            { text: "it is powerfull", correct: false },
+            { text: "nothing", correct: false },
+            { text: "it is powerfull to to crash a system", correct: false },
+            { text: "Infinite", correct: true }
+        ]
+    },
+    
+    {
+        question: "What is the power of While loop in python and JavaScript?",
+        answer: [
+            { text: "it is powerfull", correct: false },
+            { text: "nothing", correct: false },
+            { text: "it is powerfull to to crash a system", correct: false },
+            { text: "Infinite", correct: true }
+        ]
+    },
+    
+    {
+        question: "What is the power of While loop in python and JavaScript?",
+        answer: [
+            { text: "it is powerfull", correct: false },
+            { text: "nothing", correct: false },
+            { text: "it is powerfull to to crash a system", correct: false },
+            { text: "Infinite", correct: true }
+        ]
+    },
+             
+    {
+        question: "What is the power of While loop in python and JavaScript?",
+        answer: [
+            { text: "it is powerfull", correct: false },
+            { text: "nothing", correct: false },
+            { text: "it is powerfull to to crash a system", correct: false },
+            { text: "Infinite", correct: true }
+        ]
+    },
+    
+    {
+        question: "What is the power of While loop in python and JavaScript?",
+        answer: [
+            { text: "it is powerfull", correct: false },
+            { text: "nothing", correct: false },
+            { text: "it is powerfull to to crash a system", correct: false },
+            { text: "Infinite", correct: true }
+        ]
+    },
+    
+    {
+        question: "What is the power of While loop in python and JavaScript?",
+        answer: [
+            { text: "it is powerfull", correct: false },
+            { text: "nothing", correct: false },
+            { text: "it is powerfull to to crash a system", correct: false },
+            { text: "Infinite", correct: true }
+        ]
+    },
+    
+    
+    
 ];
 let que = document.getElementById('question')
 let ansbtn = document.getElementById('answerbtns')
